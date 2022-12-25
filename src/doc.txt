@@ -1,0 +1,12 @@
+A.
+B.
+C.
+D. UPDATE TODO TEXT
+ 1. Edit butonuna basıldığında Hangi todo nun text ini güncelleyeceğimi bilmem lazım.
+ 2. bir todo nun text ini güncellemek için yeni bir input açarak texti ordan almam lazım.
+ (Koşullu render ile bir input göster. koşullu render dersem aklıma bir state oluşturmak gelmeli!!!)
+ 3. Aldığımız yeni text i kullanarak güncellenecek todonun text alanını güncellemem lazım.
+ 4. güncelleme adımları:
+  a. Bütün todos dizinini dolaş
+  b. Güncellenecek todo yakalandığında sadece text alanını yeni text ile değiştir.
+  c. GüncelleMEmem gereken bir todo gelirse değiştirme.
