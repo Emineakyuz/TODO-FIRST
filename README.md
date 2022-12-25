@@ -3,13 +3,16 @@ This is an react application. You can generate a TODO list as shown below.
 
 ![image](https://user-images.githubusercontent.com/114637979/209483477-0251046f-8fa5-40f8-8f31-e67d65343e59.png)
 
+![image](https://user-images.githubusercontent.com/114637979/209483673-ac2aa681-e966-4dd3-97d4-4b2676df0f24.png)
+![image](https://user-images.githubusercontent.com/114637979/209483688-3045a4fe-3789-4145-97a2-6ec1a425cd9f.png)
+![image](https://user-images.githubusercontent.com/114637979/209483694-f43ec105-c905-4f37-b996-437b36ac75d0.png)
+![image](https://user-images.githubusercontent.com/114637979/209483698-9f79517b-884b-4892-9861-0c31c2fb7d04.png)
 
-
-
-
-
-
-
+We used;
+if else
+for
+map
+states (useState) and temporary states (tempTodos)
 
 
 # Getting Started with Create React App
